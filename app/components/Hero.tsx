@@ -32,7 +32,7 @@ const Hero = () => {
             </a>
           </Button>
           <Button variant="outline" size="lg" className="gap-2" asChild>
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/altesse-imena" target="_blank" rel="noopener noreferrer">
               <GithubIcon className="w-5 h-5" />
               GitHub
             </a>
